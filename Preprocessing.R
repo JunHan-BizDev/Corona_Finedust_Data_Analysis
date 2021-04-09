@@ -27,7 +27,6 @@ Fpopl_address %<>% select(-adstrd_code)
 
 Fpopl_address$base_ymd <- as.character(Fpopl_address$base_ymd)
 Fpopl_address$base_ymd <- as.Date(Fpopl_address$base_ymd,"%Y%m%d")
-#!!!
 Fpopl_address  %<>% select(base_ymd, sexdstn_se_code, agrde_se_code, popltn_cascnt)
 
 
