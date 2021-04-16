@@ -26,3 +26,6 @@
 
  Since the arrival of the coronavirus, the trend of using **private economy**, or private services, even if it costs more, has been noticeable.
  Industries in the `increasing cluster` generally had many private services centered on members. Thus, a significant increase in sales can be achieved by proposing membership-based services to the industry, which is a `declining cluster`, including hotel, movie theater, gym club, fitness center and so on.
+
+코로나바이러스가 출현한 이후 비용이 더 들더라도 **민간경제** 즉 민간 서비스를 이용하는 추세가 두드러졌다.
+증가 클러스터 업종은 일반적으로 회원을 중심으로 한 민간 서비스가 많았다. 이에 따라 호텔 영화관 체육관 피트니스센터 등 쇠퇴 클러스터인 회원제 서비스를 업계에 제안하면 매출이 크게 늘어날 수 있다.
